@@ -1,6 +1,6 @@
 # Flipkart Sales and Revenue Analysis Project
+![flipkart-india-logo-tagline-coupon-india-854844c018b48dd05b8967e15b2b5172](https://github.com/user-attachments/assets/997b919b-01f6-4ebb-92cd-d0b83d59f04c)
 
-```markdown
 # Flipkart Sales and Revenue Analysis Project 📊📈
 
 Welcome to my **Flipkart Sales and Revenue Analysis** project! 🎉
